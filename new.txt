@@ -3,3 +3,5 @@ joe
 mari
 jim
 gary
+Béla
+Józsika
